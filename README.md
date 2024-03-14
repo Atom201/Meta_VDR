@@ -1,3 +1,17 @@
+#Analysis of Vdr gene plymorphism of foc1 and bsm1 variants Data:
+
+2 influenza cases, one with kidney cancer, the other healthy, analysis of the frequency of polymorphisms.
+The VDR (Vitamin D Receptor) gene encodes a protein called the vitamin D receptor (VDR). 
+The vitamin D receptor is a protein that plays a key role in regulating the cellular response to vitamin D.
+The association of VDR gene polymorphisms with the risk of breast cancer (Bsm1, Fok1), prostate cancer (Fok1) and malignant melanoma (Fok1) is indicated. 
+The greatest importance in prognosis is observed in patients with prostate cancer (Fok1), breast cancer (Bsm1, Taq1), malignant melanoma (Bsm1) and renal cell carcinoma (Taq1). 
+It is important to recognize, describe and correlate the genetic occurrence of VDR gene polymorphisms, 
+which will allow for early diagnosis or prevention of the occurrence of diseases correlated with them.
+
+
+
+
+
 # Meta_VDR
 
 
